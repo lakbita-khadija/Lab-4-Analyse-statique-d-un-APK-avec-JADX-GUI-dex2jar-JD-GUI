@@ -136,7 +136,6 @@ Recherches effectuées via **JADX GUI → Text Search (Ctrl+Shift+F)** :
 
 ## Commandes utilisées
 
-```bash
 # Téléchargement de l'APK
 wget https://raw.githubusercontent.com/OWASP/owasp-mastg/master/Crackmes/Android/Level_01/UnCrackable-Level1.apk
 
@@ -172,7 +171,7 @@ java -jar jd-gui.jar jar_out/app.jar &
 
 <img width="859" height="72" alt="Capture d&#39;écran 2026-04-26 154749" src="https://github.com/user-attachments/assets/e2849c1d-5cab-4604-b7a3-2c8e4c6afb0e" />
 
-```
+
 
 ## Avertissement éthique
 
