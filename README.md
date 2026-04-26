@@ -111,7 +111,8 @@ Recherches effectuées via **JADX GUI → Text Search (Ctrl+Shift+F)** :
 
 
 ---
- Le rapport ://docs.google.com/document/d/1y_3LI9VktJ8JY1gWn_YpDQ3kuWpZZ5_j/edit?usp=drive_link&ouid=115915294887889410221&rtpof=true&sd=true
+ Le rapport : 
+ https://docs.google.com/document/d/1y_3LI9VktJ8JY1gWn_YpDQ3kuWpZZ5_j/edit?usp=drive_link&ouid=115915294887889410221&rtpof=true&sd=true
 
 ## Comparaison JADX GUI vs JD-GUI
 
